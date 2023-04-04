@@ -793,6 +793,10 @@ Dans la fonction `main`, complétez les TODO et retournez l'instance `CompteTikT
 
 ---
 
+## C'est le temps de générer votre TikTok
+
+Afin de générer un TikTok, copiez un des contenus json qui s'affiche en roulant le main.py (qui débute par {"titre":... et se termine par {"nom":...}]}) et collez le sur le [lien suivant](https://tiktok-inf1007.step.polymtl.ca/). Si c'est fonctionnel, bravo! Vous avez officiellement complété le dernier TP de la session!
+
 ## Barème
 
 | Classe / Module   | Points attribués |
